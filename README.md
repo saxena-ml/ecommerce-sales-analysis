@@ -122,9 +122,6 @@ Orders + Order_items + Products  →  Data Analysis  →  Pivot Tables  →  Das
 
 The main objective of this project is to demonstrate how Excel can be used to convert multiple related datasets into a structured analytical report and dashboard that can support business decision-making.
 
-## 📷 Dashboard Preview
-
-![Blinkit Sales Dashboard](https://github.com/saxena-ml/ecommerce-sales-analysis/blob/main/Dashbaord.png)
 
 ## 📂 Files
 
