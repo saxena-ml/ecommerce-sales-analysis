@@ -124,7 +124,7 @@ The main objective of this project is to demonstrate how Excel can be used to co
 
 ## 📷 Dashboard Preview
 
-![Blinkit Sales Dashboard](Dashboard.png)
+![Blinkit Sales Dashboard](https://github.com/saxena-ml/ecommerce-sales-analysis/blob/main/Dashbaord.png)
 
 ## 📂 Files
 
